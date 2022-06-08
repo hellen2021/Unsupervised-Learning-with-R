@@ -38,7 +38,7 @@
  
  Part 1: [link](https://rpubs.com/Hellen24/912347)
  
- Part 2: [Link]() 
+ Part 2: [Link](http://rpubs.com/Hellen24/912485) 
  
 ### 2. Technologies Used
 The languages/IDE used are:
